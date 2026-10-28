@@ -1,0 +1,9 @@
+{
+  "architecture": "resnet18_ft",
+  "lr": 0.00015174414727732252,
+  "batch_size": 64,
+  "dropout": 0.49196113622823484,
+  "optimizer": "adamw",
+  "weight_decay": 0.00034159758990407726,
+  "full_val_acc": 0.6923934243521872
+}
